@@ -5,6 +5,10 @@ in python. The code is preety long and maybe diffficult to understand. My code p
 As provided by our TA's and Prof.  yes the code can reproduce wrong results but can be correct by making the matrix augmented/deaugmented as per 
 the question.
 
+**IMPORTANT**
+you can hardcode the input in the file and then can feed to the terminal or directly by decommenting the upper part you can provide the input on TERMINAL.
+
+
 Thankyou!
 
 **Happy coding**
